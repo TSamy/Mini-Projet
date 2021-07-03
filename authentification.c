@@ -25,7 +25,7 @@ do{
     {
       printf("si vous etes %s %s, entrer votre mot de passe\n\n", all_users.prenom, all_users.nom);
       
-      system("clear");
+      //system("clear");
 
       do
       {
@@ -201,7 +201,7 @@ void menu_principal(){
   int choix1;
 
   do{
-  system("clear");
+  //system("Clear screen");
 
   printf("\n\n\n\t\t\tEntete du programme\n\n\n");
 
@@ -243,7 +243,7 @@ void menu_gestion_des_acces(){
   int choix1;
 
   do{
-  system("clear");
+  //system("clear");
 
   printf("\n\n\n\t\t\tEntete du programme\n\n\n");
 
